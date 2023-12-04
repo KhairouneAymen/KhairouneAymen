@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aymen Khairoune</h1>
 <h3 align="center">A passionate fullstack Developer</h3>
 
-- 📫 How to reach me **aymen.khairoune@esprit.tn**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/in/aymen-khairoune/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/aymen-khairoune/" height="30" width="40" /></a>
